@@ -20,27 +20,27 @@
 #### - Landing
 ![](https://i.pinimg.com/originals/21/42/d3/2142d3b04d5a37d06c2a813182a101b9.jpg)
 
-------------
+
 
 #### - Home
 ![](https://i.pinimg.com/originals/48/7a/d0/487ad010b2f73112a92344352dd0c13b.jpg)
 
-------------
+
 #### - Crear raza
 
 ![](https://i.pinimg.com/originals/71/78/b8/7178b870d91b0686d81023fbcecde5c5.jpg)
 
-------------
+
 #### - Raza Creada
 
 ![](https://i.pinimg.com/originals/82/c1/74/82c1741beefc6297cab462d756082d25.jpg)
 
-------------
+
 #### - About
 
 ![](https://i.pinimg.com/originals/71/a2/bd/71a2bdbbf73ec6503411fcda26811933.jpg)
 
-------------
+
 
 #### - Footer + Paginator
 
@@ -48,9 +48,26 @@
 ![](https://i.pinimg.com/originals/f4/cd/68/f4cd687cacb2cd3887ea721536fad362.jpg)
 
  Link : https://github.com/AlanGarcilazo/FULL-STACK-API-DOGS
+  
 ------------
+  ------------
+  
+  
+### PORTOFOLIO PERSONAL
+  
+  #### - Home
+  ![](https://i.pinimg.com/originals/bb/4b/85/bb4b85c539d26a604c933a068d3550cb.jpg)
+  ### - Porque yo?
+  ![](https://i.pinimg.com/originals/ea/47/e7/ea47e7421ec1fd39a862f0c1fcb19938.jpg)
+  ### - Proyectos
+  ![](https://i.pinimg.com/originals/38/9c/bc/389cbc78cee53b9d0ccc885f3862b20c.jpg)
+  ### - Contacto
+  ![](https://i.pinimg.com/originals/c0/c2/21/c0c221bd50187942b797901bc4380c3b.jpg)
 
-
+Link : https://github.com/AlanGarcilazo/Portfolio
+  
+  PROXIMAMENTE: E-COMMERCE FULL STACK APP!
+  ------------
 ## CONTACTO:
 
 📧 alangarcilazo.empleo@gmail.com
