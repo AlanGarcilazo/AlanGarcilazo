@@ -55,7 +55,7 @@
   ------------
   
   
-### PORTOFOLIO PERSONAL
+### PORTFOLIO PERSONAL
   
   #### - Home
   ![](https://i.pinimg.com/originals/bb/4b/85/bb4b85c539d26a604c933a068d3550cb.jpg)
