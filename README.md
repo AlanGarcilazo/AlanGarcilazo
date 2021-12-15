@@ -77,4 +77,8 @@ Link : https://github.com/AlanGarcilazo/Portfolio
 📞 1150216805
   <br/>
 💎 https://www.linkedin.com/in/alangarcilazo/
+  
+  ## Curriculum Vitae : 
+  
+  https://www.mediafire.com/file/xg4tqhdfxnblu8e/Cv+Alan+Garcilazo+2022.pdf/file
 
