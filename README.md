@@ -51,25 +51,9 @@
 
  Link : https://github.com/AlanGarcilazo/FULL-STACK-API-DOGS
   
-------------
-  ------------
-  
-  
-### PORTFOLIO PERSONAL
-  
-  #### - Home
-  ![](https://i.pinimg.com/originals/bb/4b/85/bb4b85c539d26a604c933a068d3550cb.jpg)
-  ### - Porque yo?
-  ![](https://i.pinimg.com/originals/ea/47/e7/ea47e7421ec1fd39a862f0c1fcb19938.jpg)
-  ### - Proyectos
-  ![](https://i.pinimg.com/originals/38/9c/bc/389cbc78cee53b9d0ccc885f3862b20c.jpg)
-  ### - Contacto
-  ![](https://i.pinimg.com/originals/c0/c2/21/c0c221bd50187942b797901bc4380c3b.jpg)
-
-Link : https://github.com/AlanGarcilazo/Portfolio
-  
+------------ 
   PROXIMAMENTE: E-COMMERCE FULL STACK APP!
-  ------------
+------------
 ## CONTACTO:
 
 📧 alangarcilazo.empleo@gmail.com
@@ -80,5 +64,5 @@ Link : https://github.com/AlanGarcilazo/Portfolio
   
   ## Curriculum Vitae : 
   
-  https://www.mediafire.com/file/xg4tqhdfxnblu8e/Cv+Alan+Garcilazo+2022.pdf/file
+  https://www.mediafire.com/file/dt3zfol53a6b51b/Cv+Alan+Garcilazo+2022.pdf/file
 
