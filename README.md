@@ -4,8 +4,7 @@
 
 
 ## Acerca de mí 
-### Cuento con formación y experiencia profesional en Desarrollo Full Stack MERN ( React Js + Node Js + Mongo DB + Express Js ) y Seguridad informática. Mi objetivo es incorporarme en
-una empresa/start-up en búsqueda de nuevos desafíos en un equipo de desarrollo. Además, continuar capacitándome académicamente para crecer profesionalmente dentro de la compañía.
+### Cuento con formación y experiencia profesional en Desarrollo Full Stack MERN ( React Js + Node Js + Mongo DB + Express Js ) y Seguridad informática. Mi objetivo es incorporarme en una empresa/start-up en búsqueda de nuevos desafíos en un equipo de desarrollo. Además, continuar capacitándome académicamente para crecer profesionalmente dentro de la compañía.
 
 ### Developer Full Stack [ReactJS - NodeJS - Mongo DB - Express Js] | Experto en Seguridad de la Información | Experto en Hacking Ético • (UTN) Universidad Tecnológica Nacional.
 
