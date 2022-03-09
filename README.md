@@ -23,11 +23,11 @@
 
 # SOFT SKILLS:
 ## 🏆 Creatividad
-🏆 Autodidacta
-🏆 Capacidad Resolutiva
-🏆 Trabajo en Equipo
-🏆 Compromiso
-🏆 Asertividad
+## 🏆 Autodidacta
+## 🏆 Capacidad Resolutiva
+## 🏆 Trabajo en Equipo
+## 🏆 Compromiso
+## 🏆 Asertividad
 
 ------------
 
