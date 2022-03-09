@@ -28,7 +28,7 @@
 
 # PROYECTOS:
 ### FULL STACK - DOGS API
-## The goal was to create a fullstack application that fetches data from an API and stores it in a database. It is a web application created as an individual project for the bootcamp Henry.
+## ⭐ The goal was to create a fullstack application that fetches data from an API and stores it in a database. It is a web application created as an individual project for the bootcamp Henry.
  
 #### - Landing
 ![](https://i.pinimg.com/originals/21/42/d3/2142d3b04d5a37d06c2a813182a101b9.jpg)
