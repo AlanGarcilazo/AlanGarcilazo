@@ -39,12 +39,12 @@
 ![](https://i.pinimg.com/originals/48/7a/d0/487ad010b2f73112a92344352dd0c13b.jpg)
 
 
-#### - Crear raza
+#### - Create Race
 
 ![](https://i.pinimg.com/originals/71/78/b8/7178b870d91b0686d81023fbcecde5c5.jpg)
 
 
-#### - Raza Creada
+#### - Race Created
 
 ![](https://i.pinimg.com/originals/82/c1/74/82c1741beefc6297cab462d756082d25.jpg)
 
@@ -63,9 +63,9 @@
  Link : https://github.com/AlanGarcilazo/FULL-STACK-API-DOGS
   
 ------------ 
-  PROXIMAMENTE: E-COMMERCE FULL STACK APP!
+ Coming Soon : E-commerce Full Stack App
 ------------
-## CONTACTO:
+## CONTACT:
 
 📧 alangarcilazo.empleo@gmail.com
   <br/>
