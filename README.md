@@ -1,4 +1,4 @@
-#  Hi, Soy Alan Garcilazo! 👋👋
+#  Hi, I'm Alan Garcilazo! 👋👋
 
 ![Developer Full Stack](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)
 
@@ -11,7 +11,7 @@
 ------------
 
 
-# TECH SKILLS:
+# Tech Skills:
 
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="55" width="55" >
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"  height="55" width="55" > 
