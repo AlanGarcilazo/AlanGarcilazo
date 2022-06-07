@@ -15,7 +15,7 @@
 
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="55" width="55" >
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"  height="55" width="55" > 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="45 width="45">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="55" width="55">
 <a href="http://flexboxgrid.com/"><img src="https://i.ytimg.com/vi/6qko7Nbe8YA/maxresdefault.jpg"  height="45" width="45" > 
 <a href="https://mui.com/"><img src="https://mui.com/static/logo.png"  height="50" width="50" > 
 <a href="https://styled-components.com/"><img src="https://styled-components.com/atom.png"  height="45" width="45" > 
