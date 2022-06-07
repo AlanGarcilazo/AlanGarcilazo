@@ -75,5 +75,5 @@
   
   ## Curriculum Vitae : 
   
-  https://www.mediafire.com/file/95z6ngymgoizr5f/Cv+Alan+Garcilazo+2022.pdf/file
+ https://www.mediafire.com/file/mxrsim299auzgzq/Cv+Alan+Garcilazo+2022.pdf.pdf/file
 
