@@ -4,9 +4,10 @@
 
 
 ## About Me 
-### I have training and professional experience in MERN Full Stack Development (React Js + Node Js + Mongo DB + Express Js) and Computer Security. My goal is to join a company/start-up looking for new challenges in a development team. Also, continue training academically to grow professionally within the company.
+### I have training and professional experience in MERN Full Stack Development (React Js + Redux + Next Js + Node Js + Express Js + Mongo DB + PostgreSQL) and Computer Security. My goal is to join
+a company/start-up looking for new challenges in a development team. Also, continue training academically to grow professionally within the company.
 
-### Developer Full Stack [ReactJS - NodeJS - Mongo DB - Express Js] | Information Security Expert | Expert in Ethical Hacking • (UTN) National Technological University.
+### Developer Full Stack [Mongo DB - Express Js - ReactJS - NodeJS] | Information Security Expert | Expert in Ethical Hacking • (UTN) National Technological University.
 
 ------------
 
