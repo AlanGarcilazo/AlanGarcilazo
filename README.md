@@ -18,7 +18,6 @@
 <a href="https://sass-lang.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="55" width="55">
 <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45" height="45"/></a>
 <a href="https://mui.com/"><img src="https://mui.com/static/logo.png"  height="55" width="55" > 
-<a href="https://styled-components.com/"><img src="https://styled-components.com/atom.png"  height="55" width="55" > 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" height="55" width="55" ></a>
 <a href="https://es.reactjs.org/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"  height="55" width="55" ></a>
 <a href="https://es.redux.js.org/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg"  height="55" width="55" ></a>
