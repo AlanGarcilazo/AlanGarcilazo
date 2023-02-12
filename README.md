@@ -3,8 +3,12 @@
 ![Developer Full Stack](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)
 
 
-## About Me 
-#### I have training and professional experience in MERN Full Stack Development (React Js + Redux + Next Js + Node Js + Express Js + Mongo DB + PostgreSQL) and Computer Security. My goal is to join a company/start-up looking for new challenges in a development team. Also, continue training academically to grow professionally within the company.
+# Professional Profile/Objective 👀 ↓
+Hello! I'm Alan Garcilazo, young enthusiast! I am a Front End Javascript developer. I have academic training and professional experience in Full Stack MERN Development (React Js + Redux + Next Js + Node Js + Express Js + TypeScript + Mongo DB + PostgreSQL) and Computer Security.
+
+# Because I? 🤷‍♂️↓
+My profile is very complete; You will obtain a profile with great problem-solving and analytical capacity. Great leadership, assertive and communication skills. A self-taught profile and above all a developer always willing to learn and grow professionally.
+
 
 #### Developer Full Stack [Mongo DB - Express Js - ReactJS - NodeJS] | Information Security Expert | Expert in Ethical Hacking • (UTN) National Technological University.
 
@@ -32,7 +36,7 @@
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/></a>
 
 ## Soft Skills:
-#### 🏆 Creativity - 🏆 Autodidact - 🏆 Resolution Capacity - 🏆 Team Work - 🏆 Commitment - 🏆 Assertiveness
+#### 🏆 Creativity - 🏆 Autodidact - 🏆 Resolution Capacity - 🏆 Team Work - 🏆 Commitment - 🏆 Assertiveness - 🏆 Leadership
 
 ------------
 
@@ -68,5 +72,5 @@
   
   ### Curriculum Vitae : 
   
- https://www.mediafire.com/file/mxrsim299auzgzq/Cv+Alan+Garcilazo+2022.pdf.pdf/file
+[ https://www.mediafire.com/file/mxrsim299auzgzq/Cv+Alan+Garcilazo+2022.pdf.pdf/file](https://www.mediafire.com/file/acwoqonscqtij4t/Cv+Alan+Garcilazo+2023.pdf/file)
 
