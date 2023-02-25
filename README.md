@@ -8,10 +8,6 @@ Hello! I'm Alan Garcilazo, young enthusiast! I am a Front End Javascript develop
 
 # Because I? 🤷‍♂️↓
 My profile is very complete; You will obtain a profile with great problem-solving and analytical capacity. Great leadership, assertive and communication skills. A self-taught profile and above all a developer always willing to learn and grow professionally.
-
-
-#### Developer Full Stack [Mongo DB - Express Js - ReactJS - NodeJS] | Information Security Expert | Expert in Ethical Hacking • (UTN) National Technological University.
-
 ------------
 
 
