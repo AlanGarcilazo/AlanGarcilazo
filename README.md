@@ -21,7 +21,6 @@ My profile is very complete; You will obtain a profile with great problem-solvin
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" height="55" width="55" ></a>
 <a href="https://es.reactjs.org/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"  height="55" width="55" ></a>
 <a href="https://es.redux.js.org/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg"  height="55" width="55" ></a>
-<a href="https://nextjs.org/"><img src="https://admin.johnserrano.co/content/images/2020/02/nextjs.jpg" height="55" width="55">
 <a href="https://nodejs.org/es/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg"  height="55" width="55" ></a> 
 <a href="https://expressjs.com/"><img src="https://www.dailyupblog.com/wp-content/uploads/node_express.jpg" width="55" height="55" ></a>
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg" height="55" width="55" ></a>
