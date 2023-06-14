@@ -2,10 +2,10 @@
 
 ![Developer Full Stack](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)
 
-# Professional Profile/Objective 👀 ↓
+## Professional Profile/Objective 👀 ↓
 Hello! I'm Alan Garcilazo, young enthusiast! I am a Front End Javascript developer. I have academic training and professional experience in Full Stack MERN Development (React Js + Redux + Next Js + Node Js + Express Js + TypeScript + Mongo DB + PostgreSQL) and Computer Security.
 
-# Because I? 🤷‍♂️↓
+## Because I? 🤷‍♂️↓
 My profile is very complete; You will obtain a profile with great problem-solving and analytical capacity. Great leadership, assertive and communication skills. A self-taught profile and above all a developer always willing to learn and grow professionally.
 
 ## Tech Skills:
@@ -57,7 +57,7 @@ My profile is very complete; You will obtain a profile with great problem-solvin
   <br/>
 💎 https://www.linkedin.com/in/alangarcilazo/
   
-  ### Curriculum Vitae : 
+  ### CV: 
   
-[ https://www.mediafire.com/file/mxrsim299auzgzq/Cv+Alan+Garcilazo+2022.pdf.pdf/file](https://www.mediafire.com/file/acwoqonscqtij4t/Cv+Alan+Garcilazo+2023.pdf/file)
+https://www.mediafire.com/file/40s7v17550wek5i/Cv+Alan+Garcilazo+2023.pdf/file
 
