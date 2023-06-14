@@ -2,14 +2,12 @@
 
 ![Developer Full Stack](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)
 
-
 # Professional Profile/Objective 👀 ↓
 Hello! I'm Alan Garcilazo, young enthusiast! I am a Front End Javascript developer. I have academic training and professional experience in Full Stack MERN Development (React Js + Redux + Next Js + Node Js + Express Js + TypeScript + Mongo DB + PostgreSQL) and Computer Security.
 
 # Because I? 🤷‍♂️↓
 My profile is very complete; You will obtain a profile with great problem-solving and analytical capacity. Great leadership, assertive and communication skills. A self-taught profile and above all a developer always willing to learn and grow professionally.
 
-------------
 ## Tech Skills:
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="55" width="55" >
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"  height="55" width="55" > 
@@ -50,9 +48,6 @@ My profile is very complete; You will obtain a profile with great problem-solvin
 ![](https://i.pinimg.com/originals/f4/cd/68/f4cd687cacb2cd3887ea721536fad362.jpg)
 
  Link : https://github.com/AlanGarcilazo/FULL-STACK-API-DOGS
-  
------------- 
- Coming Soon : E-commerce Full Stack App
 ------------
 ### CONTACT:
 
